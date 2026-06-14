@@ -1,0 +1,11 @@
+{
+  "effect.hungerbane.nourished": "Сытость",
+  "config.hungerbane.title": "Настройки Hungerbane",
+  "config.hungerbane.mod_enabled": "Мод Включен",
+  "config.hungerbane.heal_multiplier": "Множитель лечения от еды",
+  "config.hungerbane.nourished_multiplier": "Множитель лечения от Сытости",
+  "config.hungerbane.hungry_multiplier": "Множитель лечения от Голода",
+  "config.hungerbane.wake_heal_amount": "Восстановление здоровья после сна",
+  "config.hungerbane.reset": "Сбросить",
+  "config.hungerbane.done": "Готово"
+}

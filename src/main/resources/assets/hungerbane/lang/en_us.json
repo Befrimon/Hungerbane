@@ -1,0 +1,11 @@
+{
+  "effect.hungerbane.nourished": "Nourished",
+  "config.hungerbane.title": "Hungerbane Config",
+  "config.hungerbane.mod_enabled": "Mod Enabled",
+  "config.hungerbane.heal_multiplier": "Heal Multiplier from Food",
+  "config.hungerbane.nourished_multiplier": "Heal Multiplier from Nourished",
+  "config.hungerbane.hungry_multiplier": "Heal Multiplier from Hunger",
+  "config.hungerbane.wake_heal_amount": "Health restored after waking up",
+  "config.hungerbane.reset": "Reset",
+  "config.hungerbane.done": "Done"
+}
